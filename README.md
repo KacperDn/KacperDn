@@ -5,11 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://kacperdn.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-kacperdn.dev-000000?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,symfony,vue,postgres,docker,git" />
 </p>
