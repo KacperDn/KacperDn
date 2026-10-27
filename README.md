@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=01001011%2001000001%2001000011%2001010000%2001000101%2001010010&fontSize=16&fontColor=00FF41&fontAlignY=50&stroke=00FF41&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=01001011%2001000001%2001000011%2001010000%2001000101%2001010010&fontSize=16&fontColor=00FF41&fontAlignY=50&stroke=00FF41&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KacperDn&theme=matrix&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KacperDn&theme=matrix&hide_border=true&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperDn&theme=matrix&hide_border=true&layout=compact" height="160" />
 </p>
